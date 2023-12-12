@@ -1,6 +1,5 @@
 console.log("Hello");
 
-let name='vishnu'
-console.log(name);
+console.log("Empty");
 
 // please enter pattern program
